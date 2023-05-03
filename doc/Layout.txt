@@ -1,0 +1,10 @@
+api 	Application Programing Interfaces
+db 		Default Database Location
+doc 	Documentation
+ini 	Initialisation Routines
+lib 	Library Files
+logs 	Default Logfile Location
+mvc		Model-View Controller
+orm 	Object-Relational Model
+raw 	Raw (Text) File Helpers
+sam 	Sample Files

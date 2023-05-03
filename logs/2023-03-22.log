@@ -1,0 +1,35 @@
+AppLog 2023-03-22 13:38:43 INFO - [dbutils.py > dbInit() > 23] - Database sqlite:///./db/tstmonty.db created at 22-03-2023 13:38
+AppLog 2023-03-22 13:38:44 INFO - [dbutils.py > dbFill() > 50] - ./db/tstmonty.db populated at 22-03-2023 13:38
+AppLog 2023-03-22 13:38:44 ERROR - [dbfunctions.py > dbInsert() > 130] - (sqlite3.IntegrityError) UNIQUE constraint failed: Genres.GenreName
+[SQL: INSERT INTO "Genres" ("GenreName", "Date_Created") VALUES (?, ?)]
+[parameters: ('Screaming', datetime.datetime(2023, 3, 22, 13, 38, 44, 272806))]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+AppLog 2023-03-22 13:38:44 INFO - [dbutils.py > dbKill() > 66] - File ./db/tstmonty.db has been removed at 22-03-2023 13:38
+AppLog 2023-03-22 18:01:20 INFO - [dbutils.py > dbInit() > 23] - Database sqlite:///./db/tstmonty.db created at 22-03-2023 18:01
+AppLog 2023-03-22 18:01:20 INFO - [dbutils.py > dbFill() > 50] - ./db/tstmonty.db populated at 22-03-2023 18:01
+AppLog 2023-03-22 18:01:20 ERROR - [dbfunctions.py > dbInsert() > 130] - (sqlite3.IntegrityError) UNIQUE constraint failed: Genres.GenreName
+[SQL: INSERT INTO "Genres" ("GenreName", "Date_Created") VALUES (?, ?)]
+[parameters: ('Screaming', datetime.datetime(2023, 3, 22, 18, 1, 20, 717495))]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+AppLog 2023-03-22 18:01:20 INFO - [dbutils.py > dbKill() > 66] - File ./db/tstmonty.db has been removed at 22-03-2023 18:01
+AppLog 2023-03-22 18:55:38 INFO - [dbutils.py > dbInit() > 23] - Database sqlite:///./db/tstmonty.db created at 22-03-2023 18:55
+AppLog 2023-03-22 18:55:38 INFO - [dbutils.py > dbFill() > 50] - ./db/tstmonty.db populated at 22-03-2023 18:55
+AppLog 2023-03-22 18:55:38 ERROR - [dbfunctions.py > dbInsert() > 130] - (sqlite3.IntegrityError) UNIQUE constraint failed: Genres.GenreName
+[SQL: INSERT INTO "Genres" ("GenreName", "Date_Created") VALUES (?, ?)]
+[parameters: ('Screaming', datetime.datetime(2023, 3, 22, 18, 55, 38, 962288))]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+AppLog 2023-03-22 18:55:38 INFO - [dbutils.py > dbKill() > 66] - File ./db/tstmonty.db has been removed at 22-03-2023 18:55
+AppLog 2023-03-22 18:55:49 INFO - [dbutils.py > dbInit() > 23] - Database sqlite:///./db/tstmonty.db created at 22-03-2023 18:55
+AppLog 2023-03-22 18:55:49 INFO - [dbutils.py > dbFill() > 50] - ./db/tstmonty.db populated at 22-03-2023 18:55
+AppLog 2023-03-22 18:55:49 ERROR - [dbfunctions.py > dbInsert() > 130] - (sqlite3.IntegrityError) UNIQUE constraint failed: Genres.GenreName
+[SQL: INSERT INTO "Genres" ("GenreName", "Date_Created") VALUES (?, ?)]
+[parameters: ('Screaming', datetime.datetime(2023, 3, 22, 18, 55, 49, 807510))]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+AppLog 2023-03-22 18:55:49 INFO - [dbutils.py > dbKill() > 66] - File ./db/tstmonty.db has been removed at 22-03-2023 18:55
+AppLog 2023-03-22 18:56:39 INFO - [dbutils.py > dbInit() > 23] - Database sqlite:///./db/tstmonty.db created at 22-03-2023 18:56
+AppLog 2023-03-22 18:56:39 INFO - [dbutils.py > dbFill() > 50] - ./db/tstmonty.db populated at 22-03-2023 18:56
+AppLog 2023-03-22 18:56:39 ERROR - [dbfunctions.py > dbInsert() > 130] - (sqlite3.IntegrityError) UNIQUE constraint failed: Genres.GenreName
+[SQL: INSERT INTO "Genres" ("GenreName", "Date_Created") VALUES (?, ?)]
+[parameters: ('Screaming', datetime.datetime(2023, 3, 22, 18, 56, 39, 274844))]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+AppLog 2023-03-22 18:56:39 INFO - [dbutils.py > dbKill() > 66] - File ./db/tstmonty.db has been removed at 22-03-2023 18:56

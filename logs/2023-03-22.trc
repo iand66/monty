@@ -1,0 +1,20 @@
+DatLog 2023-03-22 13:38:44 INFO - Added record number 26 to Genres
+DatLog 2023-03-22 13:38:44 INFO - Selected ... {'Id': '26', 'GenreName': 'Screaming', 'Date_Created': '2023-03-22 13:38:44.257180'}
+DatLog 2023-03-22 13:38:44 INFO - Missing ... {'GenreName': 'Blue Murder'}
+DatLog 2023-03-22 13:38:44 INFO - Updated Genres table, GenreName column contents, to "Blue Murder" 1 times
+DatLog 2023-03-22 18:01:20 INFO - Added record number 26 to Genres
+DatLog 2023-03-22 18:01:20 INFO - Selected ... {'Id': '26', 'GenreName': 'Screaming', 'Date_Created': '2023-03-22 18:01:20.701856'}
+DatLog 2023-03-22 18:01:20 INFO - Missing ... {'GenreName': 'Blue Murder'}
+DatLog 2023-03-22 18:01:20 INFO - Updated Genres table, GenreName column contents, to "Blue Murder" 1 times
+DatLog 2023-03-22 18:55:38 INFO - Added record number 26 to Genres
+DatLog 2023-03-22 18:55:38 INFO - Selected ... {'Id': '26', 'GenreName': 'Screaming', 'Date_Created': '2023-03-22 18:55:38.946663'}
+DatLog 2023-03-22 18:55:38 INFO - Missing ... {'GenreName': 'Blue Murder'}
+DatLog 2023-03-22 18:55:38 INFO - Updated Genres table, GenreName column contents, to "Blue Murder" 1 times
+DatLog 2023-03-22 18:55:49 INFO - Added record number 26 to Genres
+DatLog 2023-03-22 18:55:49 INFO - Selected ... {'Id': '26', 'GenreName': 'Screaming', 'Date_Created': '2023-03-22 18:55:49.791918'}
+DatLog 2023-03-22 18:55:49 INFO - Missing ... {'GenreName': 'Blue Murder'}
+DatLog 2023-03-22 18:55:49 INFO - Updated Genres table, GenreName column contents, to "Blue Murder" 1 times
+DatLog 2023-03-22 18:56:39 INFO - Added record number 26 to Genres
+DatLog 2023-03-22 18:56:39 INFO - Selected ... {'Id': '26', 'GenreName': 'Screaming', 'Date_Created': '2023-03-22 18:56:39.274844'}
+DatLog 2023-03-22 18:56:39 INFO - Missing ... {'GenreName': 'Blue Murder'}
+DatLog 2023-03-22 18:56:39 INFO - Updated Genres table, GenreName column contents, to "Blue Murder" 1 times
