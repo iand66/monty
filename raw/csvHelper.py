@@ -41,6 +41,7 @@ def csvWrite(filename:str, data:list, verbose:bool) -> int:
                 writer.writerow([data[i]])
         if verbose:
             datlog.info(data)
+            #FIXME csvWrite Return boolean
         return 1
     except Exception as e:
         applog.error(e)
@@ -89,6 +90,7 @@ def csvDictWriter(filename:str, data:dict, verbose:bool) -> int:
             if verbose:
                 datlog.info(data)
                 print(data)
+        #FIXME csvDictWriter Return boolean
         return 1
     except Exception as e:
         applog.error(e)
