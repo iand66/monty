@@ -139,7 +139,7 @@ def dbSelect(engine:Session, tblName:Base, filters:dict, verbose:bool) -> list:
     :return data - Query results as list
     :example - x = dbSelect(engine, Customer, {'Country':'Brazil' [,...]}, True)
     '''
-    #FIXME Rethink
+    #FIXME DBAPI Events
     datlog = logging.getLogger('DatLog')
     with Session(engine) as session:
         data = []
