@@ -1,5 +1,6 @@
 import logging
 import sqlalchemy
+from sqlalchemy import inspect
 from sqlalchemy.orm import Session
 from orm.schema import *
 
@@ -39,8 +40,7 @@ def dbSelectAll(engine:Session, tblName:Base, verbose:bool) -> list:
     :return data - Query results as list
     :example - x = dbSelectAll(engine, Genre, True)
     '''
-    #FIXME Rethink row -> dict @ Py3
-    #FIXME Tablename does not exist
+    #FIXME DBAPI Events
     datlog = logging.getLogger('DatLog')
     with Session(engine) as session:
         data = []
